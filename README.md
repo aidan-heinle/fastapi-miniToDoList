@@ -8,7 +8,7 @@ Simple FastAPI for managing tasks. This is a learner project and will be expande
 - Delete tasks (DELETE /tasks/{id})
 
   # Installation
-  - install dependencies: "pip install fastapi uvicorn"
+  - Install dependencies: "pip install fastapi uvicorn"
 
   # Running the API
   - uvicorn app:app --reload
